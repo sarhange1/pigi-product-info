@@ -1,6 +1,6 @@
-# PІҐІ (PIGI) — Pill Reminder for iPhone
+# PIGI — Pill Reminder for iPhone
 
-This is a product information page for PІҐІ (PIGI), a pill reminder and medication reminder for iPhone (iOS), published by Anna Stakhiv. The app is proprietary; this page does not publish its source code.
+This is a product information page for PIGI, a pill reminder and medication reminder for iPhone (iOS), published by Anna Stakhiv. The app is proprietary; this page does not publish its source code.
 
 [Official website](https://pigi-support.arsenstahiv.chatgpt.site/) · [App Store](https://apps.apple.com/us/app/pigi-pill-reminder/id6810865766) · [Support](https://pigi-support.arsenstahiv.chatgpt.site/support/) · [Privacy](https://pigi-support.arsenstahiv.chatgpt.site/privacy/)
 
